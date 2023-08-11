@@ -2,6 +2,9 @@
 
 Este é um servidor GraphQL construído usando Apollo Server e Express. Ele oferece um playground GraphQL para fazer queries e mutations.
 
+![image](https://github.com/ubyss/apigraphql/assets/80261904/0a158d79-328f-4d85-9bca-00d8afd93516)
+
+
 ## 🚀 Começando
 
 Siga estas etapas para configurar e rodar o projeto localmente.
